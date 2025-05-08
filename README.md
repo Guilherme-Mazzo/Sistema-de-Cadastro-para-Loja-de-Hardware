@@ -23,9 +23,6 @@ Este é um sistema simples de cadastro de produtos, vendas, compras e clientes, 
 ├── hardware.py # Cadastro de produtos
 ├── vendas.py # Cadastro de vendas
 
-yaml
-Copiar
-Editar
 
 ---
 
