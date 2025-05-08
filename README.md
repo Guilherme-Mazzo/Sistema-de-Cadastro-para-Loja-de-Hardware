@@ -1,7 +1,4 @@
 
-markdown
-Copiar
-Editar
 # 🛠️ Sistema de Cadastro para Loja de Hardware
 
 Este é um sistema simples de cadastro de produtos, vendas, compras e clientes, feito em Python com interface via terminal. Ideal para fins educacionais e para praticar modularização de código.
